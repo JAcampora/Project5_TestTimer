@@ -1,0 +1,7 @@
+#Thu Sep 29 13:47:58 PDT 2016
+base.0=C\:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9ac5aab18b487650c47b6e1e07d6aee5b70a0294
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49ab1649ac316f3a18e5dfa8e8096266ca17f130\\classes.dex
+base.1=C\:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49ab1649ac316f3a18e5dfa8e8096266ca17f130
+file.0=C\:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9ac5aab18b487650c47b6e1e07d6aee5b70a0294\\classes.dex

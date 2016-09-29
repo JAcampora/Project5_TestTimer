@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Redd\AndroidStudioProjects\project5_TestTimer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ad6ae166a86acbdad209f7f134de90b644f7bccb">
+        <dex dex="C:\Users\Redd\AndroidStudioProjects\project5_TestTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49ab1649ac316f3a18e5dfa8e8096266ca17f130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Redd\AndroidStudioProjects\project5_TestTimer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee4ba0ecbdeb6e9c19b014e11c71575f87b3010e">
+        <dex dex="C:\Users\Redd\AndroidStudioProjects\project5_TestTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ac5aab18b487650c47b6e1e07d6aee5b70a0294\classes.dex" />
+    </item>
+
+</items>

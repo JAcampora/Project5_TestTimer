@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 52,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 50,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 50,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 76,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\Redd\\AndroidStudioProjects\\project5_TestTimer\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 77,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]
